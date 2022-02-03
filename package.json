@@ -1,0 +1,18 @@
+{
+  "name": "test-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest --watchAll --verbose --coverage"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "cypress": "^9.4.1",
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
